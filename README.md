@@ -6,7 +6,7 @@ A focused learning path covering the React concepts you **must** know before (or
 
 ## Steps
 
-### 1. Learn Core React Fundamentals (JSX, Components, Props)
+### 1. Learn Core React Fundamentals (JSX, Components, Props) - Done
 - Understand JSX syntax, functional components, and how data flows via props.
 - 📖 [New React Docs – Quick Start](https://react.dev/learn)
 - 🎬 [React in 100 Seconds – Fireship](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
