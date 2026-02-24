@@ -12,7 +12,7 @@ A focused learning path covering the React concepts you **must** know before (or
 - 🎬 [React in 100 Seconds – Fireship](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - 🎬 [Full React Tutorial – Net Ninja (playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
-### 2. Master Hooks: `useState`, `useEffect`, `useRef`, `useMemo`, `useCallback`
+### 2. Master Hooks: `useState`, `useEffect`, `useRef`, `useMemo`, `useCallback`- Done
 - Next.js components use hooks extensively; `useEffect` behavior is critical for understanding SSR hydration.
 - 📖 [React Docs – Hooks Reference](https://react.dev/reference/react)
 - 🎬 [All React Hooks Explained – Web Dev Simplified](https://www.youtube.com/watch?v=LlvBzyy-558)
