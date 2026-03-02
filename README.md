@@ -24,7 +24,7 @@ A focused learning path covering the React concepts you **must** know before (or
 - 🎬 [Server Components Explained – Theo](https://www.youtube.com/watch?v=TQQPAU21ZUw)
 - 🎬 [React Server Components – Jack Herrington](https://www.youtube.com/watch?v=VIwWgV3Lc6s)
 
-### 4. Learn State Management & Context API
+### 4. Learn State Management & Context API - Done
 - Next.js apps often use React Context for themes/auth; understand `useContext`, `createContext`, and when to reach for external libs (Zustand, Jotai).
 - 📖 [React Docs – Passing Data with Context](https://react.dev/learn/passing-data-deeply-with-context)
 - 🎬 [React Context API – Codevolution](https://www.youtube.com/watch?v=5LrDIWkK_Bc)
