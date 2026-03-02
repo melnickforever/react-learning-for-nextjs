@@ -29,7 +29,7 @@ A focused learning path covering the React concepts you **must** know before (or
 - 📖 [React Docs – Passing Data with Context](https://react.dev/learn/passing-data-deeply-with-context)
 - 🎬 [React Context API – Codevolution](https://www.youtube.com/watch?v=5LrDIWkK_Bc)
 
-### 5. Grasp Suspense, Lazy Loading & Error Boundaries
+### 5. Grasp Suspense, Lazy Loading & Error Boundaries - Done
 - Next.js App Router relies on `<Suspense>` for streaming and loading states. Know `React.lazy()`, `<Suspense>`, and error boundary patterns.
 - 📖 [React Docs – Suspense](https://react.dev/reference/react/Suspense)
 - 🎬 [Suspense & Error Boundaries – Lee Robinson](https://www.youtube.com/watch?v=gq9bBZru78Y)
@@ -42,14 +42,6 @@ A focused learning path covering the React concepts you **must** know before (or
 
 ---
 
-## Bonus: Bridging to Next.js
-
-Once comfortable with the above, jump straight into:
-- 🎬 [Next.js Full Course 2024 – Lee Robinson (official)](https://www.youtube.com/watch?v=_SPoSMmN3ZU)
-- 📖 [Next.js Official Learn Course](https://nextjs.org/learn) — free, project-based, covers App Router
-- 🎬 [Next.js 14 Full Course – Dave Gray](https://www.youtube.com/watch?v=843nec-IvW0)
-
----
 
 ## Further Considerations
 
