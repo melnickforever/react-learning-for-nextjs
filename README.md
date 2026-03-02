@@ -34,7 +34,7 @@ A focused learning path covering the React concepts you **must** know before (or
 - 📖 [React Docs – Suspense](https://react.dev/reference/react/Suspense)
 - 🎬 [Suspense & Error Boundaries – Lee Robinson](https://www.youtube.com/watch?v=gq9bBZru78Y)
 
-### 6. Learn React Forms: Controlled Components & Server Actions
+### 6. Learn React Forms: Controlled Components & Server Actions - Done
 - Next.js uses React's `useFormStatus`, `useActionState`, and Server Actions for form handling.
 - 📖 [React Docs – Forms](https://react.dev/reference/react-dom/components/form)
 - 📖 [React Docs – useActionState](https://react.dev/reference/react/useActionState)
