@@ -18,7 +18,7 @@ A focused learning path covering the React concepts you **must** know before (or
 - 🎬 [All React Hooks Explained – Web Dev Simplified](https://www.youtube.com/watch?v=LlvBzyy-558)
 - 🎬 [useEffect in depth – Jack Herrington](https://www.youtube.com/watch?v=MFj_S0Nof90)
 
-### 3. Understand React Server Components (RSC) vs Client Components
+### 3. Understand React Server Components (RSC) vs Client Components - Done
 - This is the **#1 concept** for Next.js App Router. Know when to use `"use client"` and when code runs on the server.
 - 📖 [React Docs – Server Components](https://react.dev/reference/rsc/server-components)
 - 🎬 [Server Components Explained – Theo](https://www.youtube.com/watch?v=TQQPAU21ZUw)
